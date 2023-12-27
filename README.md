@@ -6,7 +6,7 @@
 
 #### Este projeto é uma "pokedex" com a listagem dos 150 pokemons(paginados),campo de busca e visualização de seus detalhes.
 
-- O resultado pode ser conferido :arrow_right: [**AQUI**](https://pokedex.dev-araujo.repl.co/)
+- O resultado pode ser conferido :arrow_right: [**AQUI**](https://pokedex-angular-roan.vercel.app/)
 
 <h1 align="center">
 
