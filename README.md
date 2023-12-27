@@ -30,10 +30,6 @@ No terminal, clone o projeto:
 git clone 
 ```
 
-Entre na pasta do projeto:
-```
-cd Angular/pokedex-angular/pokedex
-```
 
 Instale as dependências:
 ```
